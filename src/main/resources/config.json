@@ -1,0 +1,11 @@
+{
+  "block_times": [
+    { "start": "12:00", "end": "15:00" },
+    { "start": "19:00", "end": "22:00" }
+  ],
+  "whitelist": [
+    "qiaodaxian",
+    "jiemoLI"
+  ],
+  "kick_message": "主播正在开播，服务器 暂时不可用，请稍后再试。"
+}

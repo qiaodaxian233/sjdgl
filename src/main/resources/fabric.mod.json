@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "sjdgl",
+  "version": "1.0.0",
+  "name": "时间段管理插件",
+  "description": "一个管理服务器访问时间段的插件。",
+  "authors": ["你的名字"],
+  "contact": {
+    "repo": "https://github.com/你的用户名/sjdgl",
+    "email": "752522616@qq.com"
+  },
+  "license": "MPL-2.0",
+  "icon": "assets/sjdgl/icon.png",
+  "environment": "server",
+  "entrypoints": {
+    "main": [
+      "org.example.qiaodaixan.sjdgl.Sjdgl"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.10",
+    "fabric": "*",
+    "minecraft": "1.21"
+  }
+}
+
