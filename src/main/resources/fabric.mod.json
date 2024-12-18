@@ -4,9 +4,9 @@
   "version": "1.0.0",
   "name": "时间段管理插件",
   "description": "一个管理服务器访问时间段的插件。",
-  "authors": ["你的名字"],
+  "authors": ["qiaodaxian"],
   "contact": {
-    "repo": "https://github.com/你的用户名/sjdgl",
+    "repo": "https://github.com/qiaodaxian233/sjdgl",
     "email": "752522616@qq.com"
   },
   "license": "MPL-2.0",
